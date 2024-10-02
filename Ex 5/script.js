@@ -17,6 +17,8 @@
 
 // while (contador <=10); 
 
+
+
 const numero = 5
 
 for (let contador = 1; contador <= 10; contador++){
