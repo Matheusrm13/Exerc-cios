@@ -9,17 +9,24 @@
 //    contador++;
 // } 
 
-// for (let contador = 1; contador <= 10;) {
-//    if (contador % 2 == 0 ) {
-//       console.log (contador + " é par");
+for (let contador = 1; contador <= 10;) {
+   if (contador % 2 == 0 ) {
+      console.log (contador + " é par");
 
-//       } else {
-//          console.log (contador + " é impar ");
-//       }
-//    contador++;
-// }
-
-let contador = 1 
-do { contador <= 10
-   
+      } else {
+         console.log (contador + " é impar ");
+      }
+   contador++;
 }
+
+// let contador = 1 
+// do {
+//     if (contador % 2 == 0) {
+//         console.log(contador + "é par")
+//     }else{
+//         console.log(contador + "impaar")
+//     }
+//     contador++
+// } while (contador <=10)
+
+// % = Resto da divisão
