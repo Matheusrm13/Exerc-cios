@@ -1,3 +1,5 @@
+// 1 Apenas com while
+
 // let contador = 5
 
 // while (contador >= 1) {
@@ -6,10 +8,13 @@
 
 // }
 
+// 2 Apenas com For
+
 // for (let contador = 5; contador >= 1; contador--) {
 //     console.log(contador);
 // }
 
+// 3 Apenas com do while
 
 let contador = 5 
 

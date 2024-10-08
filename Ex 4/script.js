@@ -1,3 +1,5 @@
+// 1 Apenas com while
+
 // let contador = 1
 
 // while (contador <= 10){
@@ -9,6 +11,8 @@
 //    contador++;
 // } 
 
+// 2 Apenas com For
+
 for (let contador = 1; contador <= 10;) {
    if (contador % 2 == 0 ) {
       console.log (contador + " é par");
@@ -18,6 +22,8 @@ for (let contador = 1; contador <= 10;) {
       }
    contador++;
 }
+
+// 3 Apenas com do while
 
 // let contador = 1 
 // do {
@@ -29,4 +35,3 @@ for (let contador = 1; contador <= 10;) {
 //     contador++
 // } while (contador <=10)
 
-// % = Resto da divisão

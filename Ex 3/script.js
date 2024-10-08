@@ -1,3 +1,5 @@
+// 1 Apenas com while
+
 // let contador = 1;
 // let soma = 0;
 
@@ -6,6 +8,8 @@
 //    contador++;
 // }
 // console.log("A soma dos números de 1 a 10: ", soma)
+
+// 2 Apenas com do while
 
 // let contador = 1 
 // let soma = 0
@@ -16,6 +20,8 @@
 
 // } while (contador <= 10)  
 //    console.log( "A soma dos números de 1 a 10: " , soma ) 
+
+// 3 Apenas com For
 
 let soma = 0                            
 

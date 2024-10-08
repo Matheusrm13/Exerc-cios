@@ -1,3 +1,5 @@
+// 1 Apenas com while
+
 // let contador1 = 1
 
 // while (contador1 <= 5) {
